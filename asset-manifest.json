@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-TS-Lifestyle/static/css/main.8d292b3f.css",
-    "main.js": "/React-TS-Lifestyle/static/js/main.3811b9dc.js",
+    "main.js": "/React-TS-Lifestyle/static/js/main.f902ea80.js",
     "index.html": "/React-TS-Lifestyle/index.html",
     "main.8d292b3f.css.map": "/React-TS-Lifestyle/static/css/main.8d292b3f.css.map",
-    "main.3811b9dc.js.map": "/React-TS-Lifestyle/static/js/main.3811b9dc.js.map"
+    "main.f902ea80.js.map": "/React-TS-Lifestyle/static/js/main.f902ea80.js.map"
   },
   "entrypoints": [
     "static/css/main.8d292b3f.css",
-    "static/js/main.3811b9dc.js"
+    "static/js/main.f902ea80.js"
   ]
 }
